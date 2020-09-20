@@ -1,85 +1,84 @@
 # CSharp-Basics-Tests
 
 ### Operators
+    <details>   
+    <summary> Arithmatic </summary>
 
-  <details>   
-  &nbsp;&nbsp;&nbsp;&nbsp; <summary> Arithmatic </summary>
+       ▪ Addition
 
-     ▪ Addition
+       ▪ Substraction
 
-     ▪ Substraction
+       ▪ Multiplication
 
-     ▪ Multiplication
+       ▪ Division
 
-     ▪ Division
+       ▪ Modulus
 
-     ▪ Modulus
+       ▪ PreIncrement
 
-     ▪ PreIncrement
+       ▪ PostIncrement
 
-     ▪ PostIncrement
+       ▪ PreDecrement
 
-     ▪ PreDecrement
+       ▪ PostDecrement
+    </details>   
+    <details>
+    <summary> Assignment </summary>
 
-     ▪ PostDecrement
-  </details>   
- <details>
- &nbsp;&nbsp;&nbsp;&nbsp; <summary> Assignment </summary>
+       ▪ Assignment Operator
 
-     ▪ Assignment Operator
+       ▪ Add Assignment
 
-     ▪ Add Assignment
+       ▪ Substract Assignment
 
-     ▪ Substract Assignment
+       ▪ Multiply Assignment
 
-     ▪ Multiply Assignment
+       ▪ Division Assignment
 
-     ▪ Division Assignment
+       ▪ Modulus Assignment
+    </details> 
+    <details>  
+    <summary> Bitwise </summary>
 
-     ▪ Modulus Assignment
- </details> 
- <details>  
- &nbsp;&nbsp;&nbsp;&nbsp; <summary> Bitwise </summary>
+       ▪ OR
 
-     ▪ OR
+       ▪ AND
 
-     ▪ AND
+       ▪ XOR
 
-     ▪ XOR
+       ▪ Complement
 
-     ▪ Complement
+       ▪ Shift Left
 
-     ▪ Shift Left
+       ▪ Shift Right
+    </details>
+    <details>   
+    <summary> Logical </summary>
 
-     ▪ Shift Right
- </details>
- <details>   
- &nbsp;&nbsp;&nbsp;&nbsp; <summary> Logical </summary>
+       ▪ AND
 
-     ▪ AND
+       ▪ OR
 
-     ▪ OR
+       ▪ NOT
+    </details> 
+    <details>
+    <summary> Relational </summary>
 
-     ▪ NOT
- </details> 
- <details>
- &nbsp;&nbsp;&nbsp;&nbsp; <summary> Relational </summary>
+       ▪ Equal
 
-     ▪ Equal
+       ▪ Not Equal
 
-     ▪ Not Equal
+       ▪ Greater Than
 
-     ▪ Greater Than
+       ▪ Less Than
 
-     ▪ Less Than
+       ▪ GreaterThanOrEqual
 
-     ▪ GreaterThanOrEqual
-
-     ▪ LessThanOrEqual
- </details> 
- <details>
- &nbsp;&nbsp;&nbsp;&nbsp; <summary> Operator Precedence </summary>
- </details> 
+       ▪ LessThanOrEqual
+    </details> 
+    <details>
+    <summary> Operator Precedence </summary>
+    </details> 
 
 ### Collections
 <details>
