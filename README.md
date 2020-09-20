@@ -186,5 +186,19 @@
 
      ▪ TimeoutException 
  </details>
+ 
 
 # CSharp - OOPs
+### Class
+     ▪ Data member/ field
+     ▪ Constructor
+     ▪ Method
+     ▪ Property
+     ▪ Custom Property
+     ▪ Objects 
+### Abstraction
+### Inheritance
+### Interfaces
+### Polymorphism - Static
+### Polymorphism - Dynamic
+### Static members
