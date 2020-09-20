@@ -141,3 +141,11 @@
     ▪ For
     ▪ While
     ▪ Do While
+
+### Types
+    ▪ String 
+    ▪ Numbers 
+    ▪ Boolean 
+    ▪ Enums 
+    ▪ Implicit Conversions
+    ▪ Explicit Conversions
