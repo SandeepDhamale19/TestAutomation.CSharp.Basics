@@ -76,7 +76,7 @@
        ▪ GreaterThanOrEqual
 
        ▪ LessThanOrEqual
-    </details> 
+</details> 
 <details>
  <summary> Operator Precedence </summary>
 </details> 
