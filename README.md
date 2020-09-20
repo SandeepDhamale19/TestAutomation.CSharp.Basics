@@ -2,7 +2,7 @@
 
 ### Operators
 <details>
- <summary> #### Arithmatic </summary>
+ <summary> Arithmatic </summary>
    - Addition
  
    - Substraction
@@ -22,7 +22,7 @@
    - PostDecrement
 </details> 
 <details>
- <summary> #### Assignment </summary>
+ <summary> Assignment </summary>
    - Assignment Operator
  
    - Add Assignment
@@ -36,7 +36,7 @@
    - Modulus Assignment
 </details> 
 <details>  
- <summary> #### Bitwise </summary>
+ <summary> Bitwise </summary>
    - OR
  
    - AND
@@ -50,7 +50,7 @@
    - Shift Right
 </details> 
 <details>   
- <summary> #### Logical </summary>
+ <summary> Logical </summary>
    - AND
  
    - OR
@@ -58,7 +58,7 @@
    - NOT
 </details> 
 <details>
- <summary> #### Relational </summary>
+ <summary> Relational </summary>
    - Equal
  
    - Not Equal
@@ -72,5 +72,5 @@
    - LessThanOrEqual
 </details> 
 <details>
- <summary> #### Operator Precedence </summary>
+ <summary> Operator Precedence </summary>
 </details> 
