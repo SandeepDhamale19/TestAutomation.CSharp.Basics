@@ -1,7 +1,20 @@
 # CSharp-Basics-Tests
+### Types
+    ▪ String 
+    ▪ Numbers 
+    ▪ Boolean 
+    ▪ Enums 
+    ▪ Implicit Conversions
+    ▪ Explicit Conversions
+
+### Conditional Statements
+    ▪ If 
+    ▪ Switch
+    ▪ For
+    ▪ While
+    ▪ Do While
 
 ### Operators
-
  <details>   
   <summary> Arithmatic </summary>
 
@@ -134,18 +147,3 @@
 
     ▪ Update List
 </details>
-
-### Conditional Statements
-    ▪ If 
-    ▪ Switch
-    ▪ For
-    ▪ While
-    ▪ Do While
-
-### Types
-    ▪ String 
-    ▪ Numbers 
-    ▪ Boolean 
-    ▪ Enums 
-    ▪ Implicit Conversions
-    ▪ Explicit Conversions
