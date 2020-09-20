@@ -79,3 +79,37 @@
 <details>
  <summary> Operator Precedence </summary>
 </details> 
+
+### Collections
+<details>
+ <summary> Arrays </summary>
+   ▪ Declaration
+   ▪ Initialization
+   ▪ Multidimensional
+   ▪ Update Arrays
+   ▪ Sort Arrays
+</details> 
+<details>   
+ <summary> Dictionaries </summary>
+   ▪ Create Dictionaries
+   ▪ Access Dictionaries
+   ▪ Update Dictionaries
+   ▪ Remove Dictionary Elements
+</details> 
+<details>  
+ <summary> Hash Tables </summary>
+  ▪ Create HashTables
+  ▪ Update HashTables
+  ▪ Remove HashTable Elements
+</details> 
+<details>  
+ <summary> Lists </summary>
+  ▪ Create Lists
+  ▪ Access Lists
+  ▪ Access Lists LINQ
+  ▪ Add Values to List 
+  ▪ Remove Values from List
+  ▪ List Contains
+  ▪ Sort List
+  ▪ Update List
+</details>
