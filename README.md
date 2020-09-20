@@ -147,3 +147,50 @@
 
     ▪ Update List
 </details>
+
+### Exceptions
+ <details>   
+  <summary> ArgumentException </summary> 
+ </details>   
+ <details>
+  <summary> ArgumentNullException </summary> 
+ </details>   
+ <details>
+  <summary> ArgumentOutOfRangeException </summary> 
+ </details>   
+ <details>
+  <summary> DivideByZeroException </summary> 
+ </details>   
+ <details>
+  <summary> FileNotFoundException </summary> 
+ </details>   
+ <details>
+  <summary> FormatException </summary> 
+ </details>   
+ <details>
+  <summary> IndexOutOfRangeException </summary> 
+ </details>   
+ <details>
+  <summary> InvalidOperationException </summary> 
+ </details>   
+ <details>
+  <summary> KeyNotFoundException </summary> 
+ </details>   
+ <details>
+  <summary> NotSupportedException </summary> 
+ </details>   
+ <details>
+  <summary> NullReferenceException </summary> 
+ </details>   
+ <details>
+  <summary> OverflowException </summary> 
+ </details>   
+ <details>
+  <summary> OutOfMemoryException </summary> 
+ </details>   
+ <details>
+  <summary> StackOverflowException </summary> 
+ </details>   
+ <details>
+  <summary> TimeoutException </summary> 
+ </details>
