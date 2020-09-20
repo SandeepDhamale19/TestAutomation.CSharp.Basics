@@ -154,7 +154,7 @@
 
 ### Exceptions
  <details>   
-  <summary> Exceptions </summary> 
+  <summary> Built In Exceptions</summary> 
       
      ▪ ArgumentException
 
@@ -187,6 +187,9 @@
      ▪ TimeoutException 
  </details>
  
+    ▪ Custom Exceptions
+    ▪ Exception Handling
+    ▪ Throw/s
 
 # CSharp - OOPs
 ### Class
