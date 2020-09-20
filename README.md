@@ -1,4 +1,4 @@
-# CSharp-Basics <img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/CSharp_small.png" alt="Selenium C# PDF">
+# <img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/CSharp_small.png" alt="Selenium C# PDF"> CSharp-Basics 
 ### Basics
     ▪ Hello World! 
     ▪ Keywords 
