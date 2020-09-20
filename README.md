@@ -138,4 +138,5 @@
     ▪ If 
     ▪ Switch
     ▪ For
-    ▪ While▪ Do While </summary>
+    ▪ While
+    ▪ Do While
