@@ -2,8 +2,8 @@
 
 ### Operators
 
-  &nbsp;&nbsp;&nbsp;&nbsp; <details>   
-   <summary> Arithmatic </summary>
+  <details>   
+  &nbsp;&nbsp;&nbsp;&nbsp; <summary> Arithmatic </summary>
 
      ▪ Addition
 
@@ -23,8 +23,8 @@
 
      ▪ PostDecrement
   </details>   
- &nbsp;&nbsp;&nbsp;&nbsp; <details>
- <summary> Assignment </summary>
+ <details>
+ &nbsp;&nbsp;&nbsp;&nbsp; <summary> Assignment </summary>
 
      ▪ Assignment Operator
 
@@ -38,8 +38,8 @@
 
      ▪ Modulus Assignment
  </details> 
- &nbsp;&nbsp;&nbsp;&nbsp; <details>  
- <summary> Bitwise </summary>
+ <details>  
+ &nbsp;&nbsp;&nbsp;&nbsp; <summary> Bitwise </summary>
 
      ▪ OR
 
@@ -53,8 +53,8 @@
 
      ▪ Shift Right
  </details>
- &nbsp;&nbsp;&nbsp;&nbsp; <details>   
- <summary> Logical </summary>
+ <details>   
+ &nbsp;&nbsp;&nbsp;&nbsp; <summary> Logical </summary>
 
      ▪ AND
 
@@ -62,8 +62,8 @@
 
      ▪ NOT
  </details> 
- &nbsp;&nbsp;&nbsp;&nbsp; <details>
- <summary> Relational </summary>
+ <details>
+ &nbsp;&nbsp;&nbsp;&nbsp; <summary> Relational </summary>
 
      ▪ Equal
 
@@ -77,8 +77,8 @@
 
      ▪ LessThanOrEqual
  </details> 
- &nbsp;&nbsp;&nbsp;&nbsp; <details>
- <summary> Operator Precedence </summary>
+ <details>
+ &nbsp;&nbsp;&nbsp;&nbsp; <summary> Operator Precedence </summary>
  </details> 
 
 ### Collections
