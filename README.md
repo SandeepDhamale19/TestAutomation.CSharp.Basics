@@ -150,7 +150,7 @@
 
 ### Exceptions
  <details>   
-  <summary> 
+  <summary> Exceptions </summary> 
       
      ▪ ArgumentException
 
@@ -180,5 +180,5 @@
 
      ▪ StackOverflowException
 
-     ▪ TimeoutException </summary> 
+     ▪ TimeoutException 
  </details>
