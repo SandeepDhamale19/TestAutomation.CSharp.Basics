@@ -2,8 +2,8 @@
 
 ### Operators
   <details>
-   *
-  <summary> Arithmatic </summary>
+   
+  <summary>* Arithmatic </summary>
 
      ▪ Addition
 
