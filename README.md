@@ -1,8 +1,8 @@
 # CSharp-Basics-Tests
 
 ### Operators
-   <details>   
-    <summary> Arithmatic </summary>
+<details>   
+ <summary> Arithmatic </summary>
 
        ▪ Addition
 
@@ -21,9 +21,9 @@
        ▪ PreDecrement
 
        ▪ PostDecrement
-    </details>   
-   <details>
-    <summary> Assignment </summary>
+ </details>   
+ <details>
+  <summary> Assignment </summary>
 
        ▪ Assignment Operator
 
@@ -36,9 +36,9 @@
        ▪ Division Assignment
 
        ▪ Modulus Assignment
-    </details> 
-   <details>  
-    <summary> Bitwise </summary>
+ </details> 
+ <details>  
+  <summary> Bitwise </summary>
 
        ▪ OR
 
@@ -51,18 +51,18 @@
        ▪ Shift Left
 
        ▪ Shift Right
-    </details>
-   <details>   
-    <summary> Logical </summary>
+ </details>
+ <details>   
+  <summary> Logical </summary>
 
        ▪ AND
 
        ▪ OR
 
        ▪ NOT
-    </details> 
-   <details>
-    <summary> Relational </summary>
+ </details> 
+ <details>
+  <summary> Relational </summary>
 
        ▪ Equal
 
@@ -76,9 +76,9 @@
 
        ▪ LessThanOrEqual
     </details> 
-   <details>
-    <summary> Operator Precedence </summary>
-    </details> 
+ <details>
+  <summary> Operator Precedence </summary>
+ </details> 
 
 ### Collections
 <details>
