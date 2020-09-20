@@ -1,51 +1,76 @@
 # CSharp-Basics-Tests
 
-###Operators
+### Operators
 <details>
- <summary> Arithmatic </summary>
+ <summary> #### Arithmatic </summary>
    - Addition
+ 
    - Substraction
+   
    - Multiplication
+   
    - Division
+   
    - Modulus
+   
    - PreIncrement
+   
    - PostIncrement
+   
    - PreDecrement
+   
    - PostDecrement
 </details> 
 <details>
- <summary> Assignment </summary>
+ <summary> #### Assignment </summary>
    - Assignment Operator
+ 
    - Add Assignment
+ 
    - Substract Assignment
+ 
    - Multiply Assignment
+ 
    - Division Assignment
+ 
    - Modulus Assignment
 </details> 
 <details>  
- <summary> Bitwise </summary>
+ <summary> #### Bitwise </summary>
    - OR
+ 
    - AND
+ 
    - XOR
+ 
    - Complement
+ 
    - Shift Left
+ 
    - Shift Right
 </details> 
 <details>   
- <summary> Logical </summary>
+ <summary> #### Logical </summary>
    - AND
+ 
    - OR
+ 
    - NOT
 </details> 
 <details>
- <summary> Relational </summary>
+ <summary> #### Relational </summary>
    - Equal
+ 
    - Not Equal
+ 
    - Greater Than
+ 
    - Less Than
+ 
    - GreaterThanOrEqual
+ 
    - LessThanOrEqual
 </details> 
 <details>
- <summary> Operator Precedence </summary>
+ <summary> #### Operator Precedence </summary>
 </details> 
