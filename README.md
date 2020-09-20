@@ -1,84 +1,84 @@
 # CSharp-Basics-Tests
 
 ### Operators
+  <details>
+   <summary> Arithmatic </summary>
+
+     ▪ Addition
+
+     ▪ Substraction
+
+     ▪ Multiplication
+
+     ▪ Division
+
+     ▪ Modulus
+
+     ▪ PreIncrement
+
+     ▪ PostIncrement
+
+     ▪ PreDecrement
+
+     ▪ PostDecrement
+  </details> 
  <details>
-  <summary> Arithmatic </summary>
- 
-    ▪ Addition
+  <summary> Assignment </summary>
 
-    ▪ Substraction
+     ▪ Assignment Operator
 
-    ▪ Multiplication
+     ▪ Add Assignment
 
-    ▪ Division
+     ▪ Substract Assignment
 
-    ▪ Modulus
+     ▪ Multiply Assignment
 
-    ▪ PreIncrement
+     ▪ Division Assignment
 
-    ▪ PostIncrement
-
-    ▪ PreDecrement
-
-    ▪ PostDecrement
+     ▪ Modulus Assignment
  </details> 
-<details>
- <summary> Assignment </summary>
- 
-    ▪ Assignment Operator
+ <details>  
+  <summary> Bitwise </summary>
 
-    ▪ Add Assignment
+     ▪ OR
 
-    ▪ Substract Assignment
+     ▪ AND
 
-    ▪ Multiply Assignment
+     ▪ XOR
 
-    ▪ Division Assignment
+     ▪ Complement
 
-    ▪ Modulus Assignment
-</details> 
-<details>  
- <summary> Bitwise </summary>
- 
-    ▪ OR
+     ▪ Shift Left
 
-    ▪ AND
+     ▪ Shift Right
+ </details> 
+ <details>   
+  <summary> Logical </summary>
 
-    ▪ XOR
+     ▪ AND
 
-    ▪ Complement
+     ▪ OR
 
-    ▪ Shift Left
+     ▪ NOT
+ </details> 
+ <details>
+  <summary> Relational </summary>
 
-    ▪ Shift Right
-</details> 
-<details>   
- <summary> Logical </summary>
- 
-    ▪ AND
+     ▪ Equal
 
-    ▪ OR
+     ▪ Not Equal
 
-    ▪ NOT
-</details> 
-<details>
- <summary> Relational </summary>
- 
-    ▪ Equal
+     ▪ Greater Than
 
-    ▪ Not Equal
+     ▪ Less Than
 
-    ▪ Greater Than
+     ▪ GreaterThanOrEqual
 
-    ▪ Less Than
-
-    ▪ GreaterThanOrEqual
-
-    ▪ LessThanOrEqual
-</details> 
-<details>
- <summary> Operator Precedence </summary>
-</details> 
+     ▪ LessThanOrEqual
+ </details> 
+ <details>
+  <summary> Operator Precedence </summary>
+ </details> 
 
 ### Collections
 <details>
