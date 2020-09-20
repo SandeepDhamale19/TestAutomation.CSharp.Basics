@@ -154,10 +154,7 @@
 
 ### Exceptions
  <details>   
-  <summary>       
-     
-     ▪ Built In Exceptions
-  </summary> 
+  <summary> ▪ Built In Exceptions </summary> 
       
      ▪ ArgumentException
 
