@@ -133,3 +133,38 @@
 
     ▪ Update List
 </details>
+
+### Conditional Statements
+<details>
+ <summary>  
+   
+    ▪ If 
+ </summary>
+</details> 
+<details>
+ <summary> 
+  
+    ▪ Switch </summary>
+</details> 
+<details>
+ <summary> 
+     
+     ▪ For </summary>
+</details> 
+<details>
+ <summary> 
+     
+     ▪ ForEach
+ </summary>
+</details> 
+<details>
+ <summary> 
+  
+    ▪ While
+  </summary>
+</details> 
+<details>
+ <summary> 
+  
+    ▪ Do While </summary>
+</details>
