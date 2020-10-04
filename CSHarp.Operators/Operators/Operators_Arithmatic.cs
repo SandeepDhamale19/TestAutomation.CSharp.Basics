@@ -34,7 +34,7 @@ namespace CSharp.Operators
         {
             Num1 = 2;
             Num2 = 3;
-            Console.WriteLine($"Operator '*' (substract): {Num1} * {Num2} = {Num1 * Num2}");
+            Console.WriteLine($"Operator '*' (multiply): {Num1} * {Num2} = {Num1 * Num2}");
             Assert.AreEqual(6, Num1 * Num2);
         }
 
